@@ -1,0 +1,100 @@
+What is the output of Console.WriteLine(5 + 3)?,8
+What data type is used to store text in C#?,string
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+Write a function to calculate the factorial of a number.,int Factorial(int n) { if (n <= 1) return 1; return n * Factorial(n - 1); }
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Create a simple Windows Form with a button and a label.,public class MyForm : Form { public MyForm() { Button btn = new Button(); Label lbl = new Label(); Controls.Add(btn); Controls.Add(lbl); } }
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+Which namespace is used for file operations in C#?,System.IO
+Write code to read all lines from a text file.,string[] lines = File.ReadAllLines('file.txt');
+Write code to append text to a file.,File.AppendAllText('file.txt', 'New Text');
+What keyword is used to create a class in C#?,class
+Write a simple class with a constructor.,class Person { public string Name; public Person(string name) { Name = name; } }
+Write a class with inheritance and method overriding.,class Base { public virtual void Show() { Console.WriteLine('Base'); } } class Derived : Base { public override void Show() { Console.WriteLine('Derived'); } }
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+What data type is used to store text in C#?,string
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+Which namespace is used for file operations in C#?,System.IO
+What data type is used to store text in C#?,string
+Which namespace is used for file operations in C#?,System.IO
+What data type is used to store text in C#?,string
+Write a simple class with a constructor.,class Person { public string Name; public Person(string name) { Name = name; } }
+What data type is used to store text in C#?,string
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Which namespace is used for file operations in C#?,System.IO
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Which namespace is used for file operations in C#?,System.IO
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write a class with inheritance and method overriding.,class Base { public virtual void Show() { Console.WriteLine('Base'); } } class Derived : Base { public override void Show() { Console.WriteLine('Derived'); } }
+What data type is used to store text in C#?,string
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What data type is used to store text in C#?,string
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+Which namespace is used for file operations in C#?,System.IO
+Write a simple class with a constructor.,class Person { public string Name; public Person(string name) { Name = name; } }
+Write a class with inheritance and method overriding.,class Base { public virtual void Show() { Console.WriteLine('Base'); } } class Derived : Base { public override void Show() { Console.WriteLine('Derived'); } }
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+Create a simple Windows Form with a button and a label.,public class MyForm : Form { public MyForm() { Button btn = new Button(); Label lbl = new Label(); Controls.Add(btn); Controls.Add(lbl); } }
+Which namespace is used for file operations in C#?,System.IO
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What data type is used to store text in C#?,string
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Create a simple Windows Form with a button and a label.,public class MyForm : Form { public MyForm() { Button btn = new Button(); Label lbl = new Label(); Controls.Add(btn); Controls.Add(lbl); } }
+Write code to append text to a file.,File.AppendAllText('file.txt', 'New Text');
+Write a class with inheritance and method overriding.,class Base { public virtual void Show() { Console.WriteLine('Base'); } } class Derived : Base { public override void Show() { Console.WriteLine('Derived'); } }
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Which namespace is used for file operations in C#?,System.IO
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+What data type is used to store text in C#?,string
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What keyword is used to create a class in C#?,class
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Which namespace is used for file operations in C#?,System.IO
+What is the output of Console.WriteLine(5 + 3)?,8
+Which namespace is used for file operations in C#?,System.IO
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What data type is used to store text in C#?,string
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+Which namespace is used for file operations in C#?,System.IO
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Create a simple Windows Form with a button and a label.,public class MyForm : Form { public MyForm() { Button btn = new Button(); Label lbl = new Label(); Controls.Add(btn); Controls.Add(lbl); } }
+What data type is used to store text in C#?,string
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What data type is used to store text in C#?,string
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+Which namespace is used for file operations in C#?,System.IO
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What data type is used to store text in C#?,string
+Create a simple Windows Form with a button and a label.,public class MyForm : Form { public MyForm() { Button btn = new Button(); Label lbl = new Label(); Controls.Add(btn); Controls.Add(lbl); } }
+What library is commonly used for creating Windows GUI in C#?,System.Windows.Forms
+What is the output of Console.WriteLine(5 + 3)?,8
+Write a for loop to print numbers 1 to 10.,for (int i = 1; i <= 10; i++) { Console.WriteLine(i); }
+Write code to handle a button click event to change label text.,btn.Click += (sender, e) => { lbl.Text = 'Button Clicked'; };
